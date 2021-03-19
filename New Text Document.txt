@@ -1,0 +1,7 @@
+install prereqs
+
+sqllocalDB 2016 
+netframework 4.6.1 or heigher
+
+cmd as admin >
+sqllocaldb create "v12.0"
